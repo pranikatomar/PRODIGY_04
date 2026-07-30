@@ -1,0 +1,6 @@
+# Core solver (sudoku_solver.py) and GUI (sudoku_gui.py) use only the
+# Python standard library -- no installs needed to run them.
+#
+# The optional bonus script visualize.py generates before/after PNG
+# images and needs matplotlib:
+matplotlib>=3.5
